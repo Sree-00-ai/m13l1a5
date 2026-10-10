@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    background-color: lightyellow;
+}
+
+input,
+button {
+    padding: 10px;
+    margin: 5px;
+}
+
+button {
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+#result {
+    font-size: 20px;
+    color: green;
+}
